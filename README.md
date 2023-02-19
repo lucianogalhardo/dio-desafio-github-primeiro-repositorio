@@ -1,2 +1,2 @@
-# Desafios-Projetos-Bootcamp-BancoPan
-Repositório para envio de Desafios referente ao Bootcamp Banco Pan Java Developer
+# Repositório do Desafio do Projeto sobre Git/GitHub da DIO
+Desafio do Projeto sobre Git/GitHub
